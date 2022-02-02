@@ -1,10 +1,9 @@
-# Next.js Ecommerce Demo
+# Demo Cart Starter
 
-## Getting started locally
-* `yarn install`
-* `yarn dev`
-* 🚀
+## ⚡️ Quick Start
 
-## More tutorials and walkthroughs
-* [Follow me on Twitter](https://twitter.com/colbyfayock)
-* [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+```bash
+yarn create next-app -e https://github.com/colbyfayock/demo-cart-starter
+# or
+npx create-next-app -e https://github.com/colbyfayock/demo-cart-starter
+```
